@@ -21,7 +21,7 @@ The primary objectives of this project include:
 The project utilizes MongoDB Atlas as the data source, containing sample Airbnb data. The data includes information about listings, hosts, neighborhoods, pricing, ratings, and more.
 
 # 2. Methodology
-# MongoDB Connection and Data Retrieval
+## MongoDB Connection and Data Retrieval
 We established a connection to MongoDB Atlas and retrieved the Airbnb dataset. MongoDB queries and data retrieval operations were performed to extract the necessary information for analysis.
 
 # Data Cleaning and Preparation

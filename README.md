@@ -63,4 +63,16 @@ In conclusion, the Airbnb Analysis project successfully provided valuable insigh
 
 # Streamlit App :
 
+## Homepage 
+![app0](https://github.com/Clintonnick3/DS_Airbnb-Analysis/assets/129974527/ee393df1-3c69-4e80-90ff-b593602d8474)
+
+## Overview 
+![app1](https://github.com/Clintonnick3/DS_Airbnb-Analysis/assets/129974527/af6c8ae0-493a-491c-a546-05a0cefd27bc)
+
+## Insights
+![app3](https://github.com/Clintonnick3/DS_Airbnb-Analysis/assets/129974527/563f80d7-7063-4568-8c8a-a11e38164839)
+
+## Explore
+![app1](https://github.com/Clintonnick3/DS_Airbnb-Analysis/assets/129974527/af6c8ae0-493a-491c-a546-05a0cefd27bc)
+
 

@@ -59,7 +59,7 @@ Location-based insights highlighted price disparities in specific regions or nei
 ## Summary of Insights
 In conclusion, the Airbnb Analysis project successfully provided valuable insights into pricing variations, availability patterns, and location-based trends within the Airbnb dataset. Key findings included...
 
-# Airbnb Dashboard Link : [Click Me to analyze](https://public.tableau.com/views/Airbnb_pro/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+# Airbnb Dashboard Link : [Click Me to Explore](https://public.tableau.com/views/Airbnb_pro/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 # Streamlit App :
 
